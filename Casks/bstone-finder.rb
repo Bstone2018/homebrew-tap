@@ -1,6 +1,6 @@
 cask "bstone-finder" do
-  version "1.1"
-  sha256 "7df0c6c0cdf220042b16d29ef164e28897952566bf23f54205d9cee768456c06"
+  version "1.2"
+  sha256 "f3d90a3bb4947f8fe91d17607b49170ff6e10ff4c5b7a928581f26351944b383"
 
   url "https://github.com/Bstone2018/bstone-finder/releases/download/v#{version}/Bstone.Solutions.-.Finder.#{version}.dmg"
   name "Bstone Solutions - Finder"
